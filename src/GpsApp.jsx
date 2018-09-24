@@ -8,7 +8,7 @@ const list = [
     {
         title: 'GPSC1',
         url: 'https://microreact.org/project/rypwR0oi-',
-        image: 'Cluster0.png',
+        image: 'img/clusterImages/Cluster0.png',
         height: '220px',
         width: '150px',
         microreactStatus: 'available',
@@ -21,7 +21,7 @@ const list = [
     {
         title: 'GPSC2',
         url: 'https://microreact.org/project/HksMFKosZ',
-        image: 'Cluster1.png',
+        image: 'img/clusterImages/Cluster1.png',
         height: '60px',
         width: '90px',
         microreactStatus: 'available',
@@ -34,7 +34,7 @@ const list = [
       {
         title: 'GPSC3',
         url: 'https://microreact.org/project/B12CSUCQb',
-        image: 'Cluster2.png',
+        image: 'img/clusterImages/Cluster2.png',
         height: '120px',
         width: '150px',
         microreactStatus: 'available',
@@ -46,7 +46,7 @@ const list = [
       {
         title: 'GPSC4',
         url: 'https://microreact.org/project/rJmWZBUXX',
-        image: 'Cluster3.png',
+        image: 'img/clusterImages/Cluster3.png',
         height: '70px',
         width: '90px',
         microreactStatus: 'available',
@@ -58,7 +58,7 @@ const list = [
     {
         title: 'GPSC5',
         url: 'https://microreact.org/project/r1JlObW2-',
-        image: 'Cluster4.png',
+        image: 'img/clusterImages/Cluster4.png',
         height: '150px',
         width: '130px',
         microreactStatus: 'available',
@@ -70,7 +70,7 @@ const list = [
     {
         title: 'GPSC6',
         url: 'https://microreact.org/project/SJlD_ujUW',
-        image: 'Cluster5.png',
+        image: 'img/clusterImages/Cluster5.png',
         height: '70px',
         width: '90px',
         microreactStatus: 'available',
@@ -82,7 +82,7 @@ const list = [
     {
         title: 'GPSC7',
         url: 'https://microreact.org/project/Bkz5V7xmW',
-        image: 'Cluster6.png',
+        image: 'img/clusterImages/Cluster6.png',
         height: '80px',
         width: '140px',
         microreactStatus: 'available',
@@ -95,7 +95,7 @@ const list = [
     {
         title: 'GPSC8',
         url: 'https://microreact.org/project/S1ArzY5iW',
-        image: 'Cluster7.png',
+        image: 'img/clusterImages/Cluster7.png',
         height: '70px',
         width: '90px',
         microreactStatus: 'available',
@@ -108,7 +108,7 @@ const list = [
     {
         title: 'GPSC9',
         url: 'https://microreact.org/project/ry_xet8oZ',
-        image: 'Cluster8.png',
+        image: 'img/clusterImages/Cluster8.png',
         height: '130px',
         width: '90px',
         microreactStatus: 'available',
@@ -120,7 +120,7 @@ const list = [
     {
         title: 'GPSC10',
         url: 'https://microreact.org/project/ByQzAE8m7',
-        image: 'Cluster9.png',
+        image: 'img/clusterImages/Cluster9.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'available',
@@ -132,7 +132,7 @@ const list = [
     {
         title: 'GPSC11',
         url: 'https://microreact.org/project/Sk9O_GrQb',
-        image: 'Cluster10.png',
+        image: 'img/clusterImages/Cluster10.png',
         height: '160px',
         width: '100px',
         microreactStatus: 'available',
@@ -144,7 +144,7 @@ const list = [
     {
         title: 'GPSC12',
         url: 'https://microreact.org/project/ryGSGFIoW',
-        image: 'Cluster11.png',
+        image: 'img/clusterImages/Cluster11.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'available',
@@ -156,7 +156,7 @@ const list = [
     {
         title: 'GPSC13',
         url: 'https://microreact.org/project/BJ1Ki8on-',
-        image: 'Cluster12.png',
+        image: 'img/clusterImages/Cluster12.png',
         height: '160px',
         width: '250px',
         microreactStatus: 'available',
@@ -168,7 +168,7 @@ const list = [
       {
         title: 'GPSC14',
         url: 'https://microreact.org/project/HJx66R4h-',
-        image: 'Cluster13.png',
+        image: 'img/clusterImages/Cluster13.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -180,7 +180,7 @@ const list = [
       {
           title: 'GPSC15',
           url: 'https://microreact.org/project/ByptxShib',
-          image: 'Cluster14.png',
+          image: 'img/clusterImages/Cluster14.png',
           height: '70px',
           width: '70px',
           microreactStatus: 'available',
@@ -192,7 +192,7 @@ const list = [
       {
         title: 'GPSC16',
         url: 'https://microreact.org/project/SJPsrFQmQ',
-        image: 'Cluster15.png',
+        image: 'img/clusterImages/Cluster15.png',
         height: '110px',
           width: '140px',
         microreactStatus: 'available',
@@ -204,7 +204,7 @@ const list = [
     {
           title: 'GPSC17',
           url: 'https://microreact.org/project/HkGOXp7BZ',
-          image: 'Cluster16.png',
+          image: 'img/clusterImages/Cluster16.png',
           height: '70px',
           width: '80px',
           microreactStatus: 'available',
@@ -216,7 +216,7 @@ const list = [
     {
           title: 'GPSC18',
           url: 'https://microreact.org/project/H1Iga1q77',
-          image: 'Cluster17.png',
+          image: 'img/clusterImages/Cluster17.png',
           height: '150px',
           width: '150px',
           microreactStatus: 'available',
@@ -228,7 +228,7 @@ const list = [
     {
         title: 'GPSC19',
         url: 'https://microreact.org/project/rknjJ_IQW',
-        image: 'Cluster18.png',
+        image: 'img/clusterImages/Cluster18.png',
         height: '70px',
         width: '80px',
         microreactStatus: 'available',
@@ -240,7 +240,7 @@ const list = [
     {
         title: 'GPSC20',
         url: 'https://microreact.org/project/SJym0hUmZ',
-        image: 'Cluster19.png',
+        image: 'img/clusterImages/Cluster19.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -252,7 +252,7 @@ const list = [
     {
         title: 'GPSC21',
         url: 'https://microreact.org/project/Hy58vXxXZ',
-        image: 'Cluster20.png',
+        image: 'img/clusterImages/Cluster20.png',
         height: '70px',
         width: '90px',
         microreactStatus: 'available',
@@ -264,7 +264,7 @@ const list = [
     {
         title: 'GPSC22',
         url: 'https://microreact.org/project/BJgsPEtjZ',
-        image: 'Cluster21.png',
+        image: 'img/clusterImages/Cluster21.png',
         height: '130px',
         width: '130px',
         microreactStatus: 'available',
@@ -276,7 +276,7 @@ const list = [
     {
         title: 'GPSC23',
         url: 'https://microreact.org/project/SyGNtlfa-',
-        image: 'Cluster22.png',
+        image: 'img/clusterImages/Cluster22.png',
         height: '150px',
         width: '130px',
         microreactStatus: 'available',
@@ -288,7 +288,7 @@ const list = [
     {
         title: 'GPSC24',
         url: 'https://microreact.org/project/BJZf_SUXQ',
-        image: 'Cluster23.png',
+        image: 'img/clusterImages/Cluster23.png',
         height: '80px',
         width: '80px',
         microreactStatus: 'available',
@@ -300,7 +300,7 @@ const list = [
     {
         title: 'GPSC25',
         url: 'https://microreact.org/project/rycuXeFj-',
-        image: 'Cluster24.png',
+        image: 'img/clusterImages/Cluster24.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -312,7 +312,7 @@ const list = [
     {
           title: 'GPSC26',
           url: 'https://microreact.org/project/HkhQRvUXb',
-          image: 'Cluster25.png',
+          image: 'img/clusterImages/Cluster25.png',
           height: '70px',
           width: '70px',
           microreactStatus: 'available',
@@ -324,7 +324,7 @@ const list = [
     {
             title: 'GPSC27',
             url: 'https://microreact.org/project/S14ez4bQZ',
-            image: 'Cluster26.png',
+            image: 'img/clusterImages/Cluster26.png',
             height: '70px',
             width: '90px',
             microreactStatus: 'available',
@@ -336,7 +336,7 @@ const list = [
     {
         title: 'GPSC28',
         url: '',
-        image: 'Cluster27.png',
+        image: 'img/clusterImages/Cluster27.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -346,7 +346,7 @@ const list = [
     {
         title: 'GPSC29',
         url: '',
-        image: 'Cluster28.png',
+        image: 'img/clusterImages/Cluster28.png',
         height: '70px',
         width: '100px',
         microreactStatus: 'unavailable',
@@ -358,7 +358,7 @@ const list = [
     {
         title: 'GPSC30',
         url: 'https://microreact.org/project/HytjLvcsZ',
-        image: 'Cluster29.png',
+        image: 'img/clusterImages/Cluster29.png',
         height: '80px',
         width: '90px',
         microreactStatus: 'available',
@@ -370,7 +370,7 @@ const list = [
     {
         title: 'GPSC31',
         url: 'https://microreact.org/project/B1xe1sUsb',
-        image: 'Cluster30.png',
+        image: 'img/clusterImages/Cluster30.png',
         height: '65px',
         width: '65px',
         microreactStatus: 'available',
@@ -382,7 +382,7 @@ const list = [
     {
         title: 'GPSC32',
         url: 'https://microreact.org/project/HkqubCwiW',
-        image: 'Cluster31.png',
+        image: 'img/clusterImages/Cluster31.png',
         height: '90px',
         width: '150px',
         microreactStatus: 'available',
@@ -394,7 +394,7 @@ const list = [
     {
         title: 'GPSC33',
         url: 'https://microreact.org/project/ByLWkElQ-',
-        image: 'Cluster32.png',
+        image: 'img/clusterImages/Cluster32.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -407,7 +407,7 @@ const list = [
       {
         title: 'GPSC34',
         url: 'https://microreact.org/project/HyHUNZ6jb',
-        image: 'Cluster33.png',
+        image: 'img/clusterImages/Cluster33.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -420,7 +420,7 @@ const list = [
       {
         title: 'GPSC35',
         url: 'https://microreact.org/project/H1GHIrno-',
-        image: 'Cluster34.png',
+        image: 'img/clusterImages/Cluster34.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -433,7 +433,7 @@ const list = [
       {
         title: 'GPSC36',
         url: 'https://microreact.org/project/Bk8-3tLib',
-        image: 'Cluster35.png',
+        image: 'img/clusterImages/Cluster35.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'available',
@@ -446,7 +446,7 @@ const list = [
       {
         title: 'GPSC37',
         url: 'https://microreact.org/project/SJ2Gt19m7',
-        image: 'cluster37.png',
+        image: 'img/clusterImages/cluster37.png',
         height: '120px',
         width: '140px',
         microreactStatus: 'available',
@@ -459,7 +459,7 @@ const list = [
       {
         title: 'GPSC38',
         url: 'https://microreact.org/project/rkhQPSLmX',
-        image: 'cluster38.png',
+        image: 'img/clusterImages/cluster38.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -472,7 +472,7 @@ const list = [
       {
         title: 'GPSC39',
         url: 'https://microreact.org/project/H1QOsrLmm',
-        image: 'Cluster39.png',
+        image: 'img/clusterImages/Cluster39.png',
         height: '120px',
         width: '70px',
         microreactStatus: 'available',
@@ -485,7 +485,7 @@ const list = [
       {
         title: 'GPSC40',
         url: 'https://microreact.org/project/HkHZKtosZ',
-        image: 'Cluster40.png',
+        image: 'img/clusterImages/Cluster40.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -498,7 +498,7 @@ const list = [
       {
         title: 'GPSC41',
         url: 'https://microreact.org/project/By9Dope3W',
-        image: 'Cluster41.png',
+        image: 'img/clusterImages/Cluster41.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -511,7 +511,7 @@ const list = [
       {
         title: 'GPSC42',
         url: '',
-        image: 'cluster42.png',
+        image: 'img/clusterImages/cluster42.png',
         height: '140px',
         width: '140px',
         microreactStatus: 'unavailable',
@@ -524,7 +524,7 @@ const list = [
       {
         title: 'GPSC43',
         url: 'https://microreact.org/project/Sk9ISB8QX',
-        image: 'cluster43.png',
+        image: 'img/clusterImages/cluster43.png',
         height: '100px',
         width: '120px',
         microreactStatus: 'available',
@@ -537,7 +537,7 @@ const list = [
       {
         title: 'GPSC44',
         url: '',
-        image: 'Cluster44.png',
+        image: 'img/clusterImages/Cluster44.png',
         height: '60px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -550,7 +550,7 @@ const list = [
       {
         title: 'GPSC45',
         url: '',
-        image: 'Cluster45.png',
+        image: 'img/clusterImages/Cluster45.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -563,7 +563,7 @@ const list = [
       {
         title: 'GPSC46',
         url: '',
-        image: 'cluster46.png',
+        image: 'img/clusterImages/cluster46.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -576,7 +576,7 @@ const list = [
       {
         title: 'GPSC47',
         url: 'https://microreact.org/project/SJP_UBUXm',
-        image: 'cluster47.png',
+        image: 'img/clusterImages/cluster47.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'available',
@@ -589,7 +589,7 @@ const list = [
       {
         title: 'GPSC48',
         url: 'https://microreact.org/project/HJ4ltrLQ7',
-        image: 'cluster48.png',
+        image: 'img/clusterImages/cluster48.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'available',
@@ -602,7 +602,7 @@ const list = [
       {
         title: 'GPSC49',
         url: '',
-        image: 'cluster49.png',
+        image: 'img/clusterImages/cluster49.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -615,7 +615,7 @@ const list = [
       {
         title: 'GPSC50',
         url: 'https://microreact.org/project/HJMcUvcj-',
-        image: 'cluster50.png',
+        image: 'img/clusterImages/cluster50.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'available',
@@ -628,7 +628,7 @@ const list = [
       {
         title: 'GPSC51',
         url: 'https://microreact.org/project/SkSnuK8sb',
-        image: 'cluster51.png',
+        image: 'img/clusterImages/cluster51.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -641,7 +641,7 @@ const list = [
       {
         title: 'GPSC52',
         url: 'https://microreact.org/project/HJc2XCssZ',
-        image: 'cluster52.png',
+        image: 'img/clusterImages/cluster52.png',
         height: '80px',
         width: '70px',
         microreactStatus: 'available',
@@ -654,7 +654,7 @@ const list = [
       {
         title: 'GPSC53',
         url: 'https://microreact.org/project/Hkas03L7b',
-        image: 'cluster53.png',
+        image: 'img/clusterImages/cluster53.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -667,7 +667,7 @@ const list = [
       {
         title: 'GPSC54',
         url: '',
-        image: 'cluster54.png',
+        image: 'img/clusterImages/cluster54.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -680,7 +680,7 @@ const list = [
       {
         title: 'GPSC55',
         url: '',
-        image: 'cluster55.png',
+        image: 'img/clusterImages/cluster55.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -693,7 +693,7 @@ const list = [
       {
         title: 'GPSC56',
         url: '',
-        image: 'cluster56.png',
+        image: 'img/clusterImages/cluster56.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -706,7 +706,7 @@ const list = [
       {
         title: 'GPSC57',
         url: 'https://microreact.org/project/rykFUvqs-',
-        image: 'cluster57.png',
+        image: 'img/clusterImages/cluster57.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -719,7 +719,7 @@ const list = [
       {
         title: 'GPSC58',
         url: 'https://microreact.org/project/Sk9Wp2IXb',
-        image: 'cluster58.png',
+        image: 'img/clusterImages/cluster58.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -732,7 +732,7 @@ const list = [
       {
         title: 'GPSC59',
         url: 'https://microreact.org/project/H1wrUPqoZ',
-        image: 'cluster59.png',
+        image: 'img/clusterImages/cluster59.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -745,7 +745,7 @@ const list = [
       {
         title: 'GPSC60',
         url: '',
-        image: 'cluster60.png',
+        image: 'img/clusterImages/cluster60.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -758,7 +758,7 @@ const list = [
       {
         title: 'GPSC61',
         url: 'https://microreact.org/project/SJEp9l6sW',
-        image: 'cluster61.png',
+        image: 'img/clusterImages/cluster61.png',
         height: '120px',
         width: '140px',
         microreactStatus: 'available',
@@ -771,7 +771,7 @@ const list = [
       {
         title: 'GPSC62',
         url: 'https://microreact.org/project/rJw1qHUXQ',
-        image: 'cluster62.png',
+        image: 'img/clusterImages/cluster62.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -784,7 +784,7 @@ const list = [
       {
         title: 'GPSC63',
         url: '',
-        image: 'cluster63.png',
+        image: 'img/clusterImages/cluster63.png',
         height: '130px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -797,7 +797,7 @@ const list = [
       {
         title: 'GPSC64',
         url: '',
-        image: 'cluster64.png',
+        image: 'img/clusterImages/cluster64.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -810,7 +810,7 @@ const list = [
       {
         title: 'GPSC65',
         url: '',
-        image: 'cluster65.png',
+        image: 'img/clusterImages/cluster65.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -823,7 +823,7 @@ const list = [
       {
         title: 'GPSC66',
         url: '',
-        image: 'cluster66.png',
+        image: 'img/clusterImages/cluster66.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -836,7 +836,7 @@ const list = [
       {
         title: 'GPSC67',
         url: 'https://microreact.org/project/SyUPIPqj-',
-        image: 'cluster67.png',
+        image: 'img/clusterImages/cluster67.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -849,7 +849,7 @@ const list = [
       {
         title: 'GPSC68',
         url: 'https://microreact.org/project/SJ3j8q8i-',
-        image: 'cluster68.png',
+        image: 'img/clusterImages/cluster68.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -862,7 +862,7 @@ const list = [
       {
         title: 'GPSC69',
         url: '',
-        image: 'cluster69.png',
+        image: 'img/clusterImages/cluster69.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -875,7 +875,7 @@ const list = [
       {
         title: 'GPSC70',
         url: 'https://microreact.org/project/SyiyYsLs-',
-        image: 'cluster70.png',
+        image: 'img/clusterImages/cluster70.png',
         height: '120px',
         width: '90px',
         microreactStatus: 'available',
@@ -888,7 +888,7 @@ const list = [
       {
         title: 'GPSC71',
         url: 'https://microreact.org/project/B10oAgpsZ',
-        image: 'cluster71.png',
+        image: 'img/clusterImages/cluster71.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -901,7 +901,7 @@ const list = [
       {
         title: 'GPSC72',
         url: 'https://microreact.org/project/B1ygoqIoW',
-        image: 'cluster72.png',
+        image: 'img/clusterImages/cluster72.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -914,7 +914,7 @@ const list = [
       {
         title: 'GPSC73',
         url: '',
-        image: 'cluster73.png',
+        image: 'img/clusterImages/cluster73.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -927,7 +927,7 @@ const list = [
       {
         title: 'GPSC74',
         url: 'https://microreact.org/project/BylB1WTi-',
-        image: 'cluster74.png',
+        image: 'img/clusterImages/cluster74.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -940,7 +940,7 @@ const list = [
       {
         title: 'GPSC75',
         url: 'https://microreact.org/project/SktASv9sZ',
-        image: 'cluster75.png',
+        image: 'img/clusterImages/cluster75.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -953,7 +953,7 @@ const list = [
       {
         title: 'GPSC76',
         url: 'https://microreact.org/project/rkM1do8j-',
-        image: 'cluster76.png',
+        image: 'img/clusterImages/cluster76.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'available',
@@ -966,7 +966,7 @@ const list = [
       {
         title: 'GPSC77',
         url: '',
-        image: 'cluster77.png',
+        image: 'img/clusterImages/cluster77.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -979,7 +979,7 @@ const list = [
       {
         title: 'GPSC78',
         url: 'https://microreact.org/project/HkY6Bw5ib',
-        image: 'cluster78.png',
+        image: 'img/clusterImages/cluster78.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -992,7 +992,7 @@ const list = [
       {
         title: 'GPSC79',
         url: 'https://microreact.org/project/B1h3TK5oW',
-        image: 'cluster79.png',
+        image: 'img/clusterImages/cluster79.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1005,7 +1005,7 @@ const list = [
       {
         title: 'GPSC80',
         url: 'https://microreact.org/project/SyZpl-6i-',
-        image: 'cluster80.png',
+        image: 'img/clusterImages/cluster80.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1018,7 +1018,7 @@ const list = [
       {
         title: 'GPSC81',
         url: 'https://microreact.org/project/r1mst_1hW',
-        image: 'cluster81.png',
+        image: 'img/clusterImages/cluster81.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1031,7 +1031,7 @@ const list = [
       {
         title: 'GPSC82',
         url: 'https://microreact.org/project/ByJojnwjb',
-        image: 'cluster82.png',
+        image: 'img/clusterImages/cluster82.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'unavailable',
@@ -1044,7 +1044,7 @@ const list = [
       {
         title: 'GPSC83',
         url: 'https://microreact.org/project/H1Sq-Zpj-',
-        image: 'cluster83.png',
+        image: 'img/clusterImages/cluster83.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1057,7 +1057,7 @@ const list = [
       {
         title: 'GPSC84',
         url: 'https://microreact.org/project/B1tsHP9s-',
-        image: 'cluster84.png',
+        image: 'img/clusterImages/cluster84.png',
         height: '90px',
         width: '180px',
         microreactStatus: 'available',
@@ -1070,7 +1070,7 @@ const list = [
       {
         title: 'GPSC85',
         url: 'https://microreact.org/project/HJi8RnPj-',
-        image: 'cluster85.png',
+        image: 'img/clusterImages/cluster85.png',
         height: '70px',
         width: '70px',
         microreactStatus: 'available',
@@ -1083,7 +1083,7 @@ const list = [
       {
         title: 'GPSC86',
         url: 'https://microreact.org/project/HJt-MZTs-',
-        image: 'cluster86.png',
+        image: 'img/clusterImages/cluster86.png',
         height: '90px',
         width: '70px',
         microreactStatus: 'available',
@@ -1096,7 +1096,7 @@ const list = [
       {
         title: 'GPSC87',
         url: '',
-        image: 'cluster87.png',
+        image: 'img/clusterImages/cluster87.png',
         height: '70px',
         width: '80px',
         microreactStatus: 'unavailable',
@@ -1109,7 +1109,7 @@ const list = [
       {
         title: 'GPSC88',
         url: '',
-        image: 'cluster88.png',
+        image: 'img/clusterImages/cluster88.png',
         height: '120px',
         width: '90px',
         microreactStatus: 'unavailable',
@@ -1122,7 +1122,7 @@ const list = [
       {
         title: 'GPSC89',
         url: 'https://microreact.org/project/H1gLyIco-',
-        image: 'cluster89.png',
+        image: 'img/clusterImages/cluster89.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1135,7 +1135,7 @@ const list = [
       {
         title: 'GPSC90',
         url: 'https://microreact.org/project/HJ_VIDco-',
-        image: 'cluster90.png',
+        image: 'img/clusterImages/cluster90.png',
         height: '100px',
         width: '90px',
         microreactStatus: 'available',
@@ -1148,7 +1148,7 @@ const list = [
       {
         title: 'GPSC91',
         url: 'https://microreact.org/project/r1ijxccjZ',
-        image: 'cluster91.png',
+        image: 'img/clusterImages/cluster91.png',
         height: '80px',
         width: '120px',
         microreactStatus: 'available',
@@ -1161,7 +1161,7 @@ const list = [
       {
         title: 'GPSC93',
         url: 'https://microreact.org/project/BkwXIw9oZ',
-        image: 'cluster93.png',
+        image: 'img/clusterImages/cluster93.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1174,7 +1174,7 @@ const list = [
       {
         title: 'GPSC94',
         url: 'https://microreact.org/project/ByiHU1IzW',
-        image: 'cluster94.png',
+        image: 'img/clusterImages/cluster94.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1187,7 +1187,7 @@ const list = [
       {
         title: 'GPSC97',
         url: 'https://microreact.org/project/rJE9Sw9oZ',
-        image: 'cluster97.png',
+        image: 'img/clusterImages/cluster97.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1200,7 +1200,7 @@ const list = [
       {
         title: 'GPSC103',
         url: 'https://microreact.org/project/HJvzIw9sb',
-        image: 'cluster103.png',
+        image: 'img/clusterImages/cluster103.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1213,7 +1213,7 @@ const list = [
       {
         title: 'GPSC105',
         url: 'https://microreact.org/project/ryeeUDcsZ',
-        image: 'cluster105.png',
+        image: 'img/clusterImages/cluster105.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1226,7 +1226,7 @@ const list = [
       {
         title: 'GPSC108',
         url: 'https://microreact.org/project/HkEhVsDsb',
-        image: 'cluster108.png',
+        image: 'img/clusterImages/cluster108.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1239,7 +1239,7 @@ const list = [
       {
         title: 'GPSC115',
         url: 'https://microreact.org/project/SJhdAkKsW',
-        image: 'cluster115.png',
+        image: 'img/clusterImages/cluster115.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1252,7 +1252,7 @@ const list = [
       {
         title: 'GPSC117',
         url: 'https://microreact.org/project/rJHnrDqjb',
-        image: 'cluster117.png',
+        image: 'img/clusterImages/cluster117.png',
         height: '60px',
         width: '70px',
         microreactStatus: 'available',
@@ -1265,7 +1265,7 @@ const list = [
       {
         title: 'GPSC131',
         url: 'https://microreact.org/project/rJgQmbpsb',
-        image: 'cluster131.png',
+        image: 'img/clusterImages/cluster131.png',
         height: '60px',
         width: '80px',
         microreactStatus: 'available',
